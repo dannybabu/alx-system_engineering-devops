@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vicent:staff dir
+chown vicent=staff *
